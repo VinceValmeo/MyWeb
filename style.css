@@ -1,7 +1,19 @@
-body{
-    background-color: white;
+.page{
+    padding: 10;
 }
 
-.greet{
-    color: black;
+.center{
+   text-align: center;
+   
+}
+.colorDetail{
+    background-color: lightskyblue;
+    padding: 10px;
+}
+.picHolder{
+    background-color: lightgreen;
+}
+
+div{
+    padding: 10pc;
 }
