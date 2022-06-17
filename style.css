@@ -1,15 +1,13 @@
-.page{
-    padding: 10;
+body{
+    background-color: #f6f4f0;
 }
+
 
 
 .colorDetail{
-    background-color: lightskyblue;
+    background-color: #f6f4f0;
     padding: 10px;
 
-}
-.picHolder{
-    background-color: lightgreen;
 }
 
 div{
@@ -17,4 +15,8 @@ div{
 }
 .socials{
     padding-right: 10px;
+}
+
+.profession{
+    color: grey;
 }
