@@ -2,18 +2,19 @@
     padding: 10;
 }
 
-.center{
-   text-align: center;
-   
-}
+
 .colorDetail{
     background-color: lightskyblue;
     padding: 10px;
+
 }
 .picHolder{
     background-color: lightgreen;
 }
 
 div{
-    padding: 10pc;
+    padding: 10px;
+}
+.socials{
+    padding-right: 10px;
 }
