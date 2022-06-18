@@ -1,5 +1,6 @@
 body{
     background-color: #f6f4f0;
+    overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 
 
@@ -15,6 +16,9 @@ div{
 }
 .socials{
     padding-right: 10px;
+}
+.picHolder{
+    background-color: aqua;
 }
 
 .profession{
